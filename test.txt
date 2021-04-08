@@ -2,3 +2,4 @@ This file is added to git hub
 i want to change
 second line is added 
 to test the changes in command line interface
+to test the pull command
