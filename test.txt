@@ -5,3 +5,4 @@ to test the changes in command line interface
 to test the pull command
 new line
 from command line
+2nb line added
