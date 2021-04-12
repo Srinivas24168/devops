@@ -6,3 +6,4 @@ to test the pull command
 new line
 from command line
 2nb line added
+3rd line added
