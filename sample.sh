@@ -1,4 +1,6 @@
 this is just sample file
 
 this is not a sample file
-checking
+
+new line added
+2nd one
