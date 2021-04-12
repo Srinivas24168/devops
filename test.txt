@@ -7,3 +7,5 @@ new line
 from command line
 2nb line added
 3rd line added
+new line added for diff purpose
+
