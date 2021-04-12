@@ -4,3 +4,4 @@ second line is added
 to test the changes in command line interface
 to test the pull command
 new line
+from command line
